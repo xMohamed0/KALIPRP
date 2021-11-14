@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-KALIPRP is tool, developed using Bash language to maintain your kali linux box 
+KALIPRP is tool, developed using Bash language to prepare your kali linux box 
+
+Feel free to contact me if you face any issues or for any suggestions 
 
 
 # Features!

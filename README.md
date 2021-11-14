@@ -1,7 +1,7 @@
 # KALIPRP
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=xMohamed0.KALIPRP&left_color=red&right_color=green) 
 
 
 KALIPRP is tool, developed using Bash language to prepare your kali linux box 

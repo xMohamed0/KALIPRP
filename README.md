@@ -17,7 +17,7 @@ KALIPRP is tool, developed using Bash language to
 
 ![image](https://user-images.githubusercontent.com/94008154/141679500-e5162287-b514-4498-a13c-00f9eeeea3e7.png)
 
-![image](https://user-images.githubusercontent.com/94008154/141679512-c915c84f-4b80-406c-aeea-348c03df5bc9.png)
+![image](https://user-images.githubusercontent.com/94008154/141679575-aaa8a752-0a08-4f2d-82a3-fd003f52396b.png)
 
 ![image](https://user-images.githubusercontent.com/94008154/141679527-196e0837-bc4a-4e7e-84f3-7289488ce78d.png)
 

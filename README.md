@@ -2,16 +2,18 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-KALIPRP is tool, developed using Bash language to 
+KALIPRP is tool, developed using Bash language to maintain your kali linux box 
 
 
 # Features!
 
- - 
+ - adjust kali linux on vmware
  
- - 
+ - install atom and chrome 
  
- - 
+ - install awesome pentest tools
+ 
+ - install go, Docker, pip3 and missing libraries 
 
 # Demos 
 
